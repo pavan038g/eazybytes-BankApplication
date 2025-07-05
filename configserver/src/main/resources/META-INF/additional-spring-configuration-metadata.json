@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.cloud.config.server.native.search-location",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.server.native.search-location'"
+  },
+  {
+    "name": "management.health.liveness-state.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.health.liveness-state.enabled'"
+  },
+  {
+    "name": "management.health.readiness-state.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.health.readiness-state.enabled'"
+  }
+]}

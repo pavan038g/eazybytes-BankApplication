@@ -1,0 +1,107 @@
+{"properties": [
+  {
+    "name": "build.version",
+    "type": "java.lang.String",
+    "description": "A description for 'build.version'"
+  },
+  {
+    "name": "accounts.on-call-support",
+    "type": "java.lang.String",
+    "description": "A description for 'accounts.on-call-support'"
+  },
+  {
+    "name": "accounts.contactDetails",
+    "type": "java.lang.String",
+    "description": "A description for 'accounts.contactDetails'"
+  },
+  {
+    "name": "accounts.message",
+    "type": "java.lang.String",
+    "description": "A description for 'accounts.message'"
+  },
+  {
+    "name": "spring.config.profiles.active",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.config.profiles.active'"
+  },
+  {
+    "name": "cards.On-call-support",
+    "type": "java.lang.String",
+    "description": "A description for 'cards.On-call-support'"
+  },
+  {
+    "name": "cards.contact-details.name",
+    "type": "java.lang.String",
+    "description": "A description for 'cards.contact-details.name'"
+  },
+  {
+    "name": "cards.contact-details.email",
+    "type": "java.lang.String",
+    "description": "A description for 'cards.contact-details.email'"
+  },
+  {
+    "name": "cards.message",
+    "type": "java.lang.String",
+    "description": "A description for 'cards.message'"
+  },
+  {
+    "name": "loans.message",
+    "type": "java.lang.String",
+    "description": "A description for 'loans.message'"
+  },
+  {
+    "name": "loans.onCallSupport",
+    "type": "java.lang.String",
+    "description": "A description for 'loans.onCallSupport'"
+  },
+  {
+    "name": "loans.contactDetails.name",
+    "type": "java.lang.String",
+    "description": "A description for 'loans.contactDetails.name'"
+  },
+  {
+    "name": "loans.contactDetails.email",
+    "type": "java.lang.String",
+    "description": "A description for 'loans.contactDetails.email'"
+  },
+  {
+    "name": "eureka.instance.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.hostname'"
+  },
+  {
+    "name": "eureka.client.fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.fetch-registry'"
+  },
+  {
+    "name": "eureka.client.registerWithEureka",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.registerWithEureka'"
+  },
+  {
+    "name": "eureka.client.serviceUrl.default-zone",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.serviceUrl.default-zone'"
+  },
+  {
+    "name": "eureka.instance.preferIpAddress",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.preferIpAddress'"
+  },
+  {
+    "name": "endpoints.shutdown.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.shutdown.enabled'"
+  },
+  {
+    "name": "management.health.readiness-state.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.health.readiness-state.enabled'"
+  },
+  {
+    "name": "management.health.liveness-state.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.health.liveness-state.enabled'"
+  }
+]}
